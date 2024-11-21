@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="76" height="54" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="15">
+ <tileset firstgid="1" source="interiorwalls.tsx"/>
+ <tileset firstgid="6145" source="woodstuff.tsx"/>
+ <layer id="1" name="ground_1" width="76" height="54">
+  <data encoding="base64" compression="zlib">
+   eJztlcdtxDAQRWd1W20Jjn04Hh1KcjzK3kYcSnDsw/Ho0IT/wYJOFLACORCJ94EH6M+BxADLt83E7EJcirlo/nsTmA/pMc8K9dR3tPnS97f4Eb+TrofmQ3rMs0I99R1t9iqzfXEgDquuh+ZDesyzQj31HW2u9H0tbsRt1fXQfEiPeVaop76jTejd4i/8hb/wF/7CX/gLf+Ev/IW/8Bf+wl/4C3+V5C+PlOQvj5TkL4+U5C+P4K/Fgr8WS2n+upua3YsH8SiexPM0zrxvj1z9tVSbLYsVsSrWxHodZ963R67+OtJex+JEnIozcV7Hmfftkau/XrTXq3gT7+JDfNZx5vgLf+Ev/IW/8Feu/kr9+yrNXxszs02xJbbFjtidxZmX5q/Ub8Wje/or9Vvx6J7+Sv1WPLqnv1L/13t0/IW/8Nd4Ov7CX/hrPB1/4S/8NZ6Ov/CXh78IISTX/AEoml/b
+  </data>
+ </layer>
+ <layer id="7" name="carpet_1" width="76" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt0MENgCAURMHfAo0pNiraoVsFkjCTvPtmqwAAAAAAAAAAAIDZjlZ1pp6u9vea9d35aKQnvf4CAAAAAGBTH6muBIU=
+  </data>
+ </layer>
+ <layer id="2" name="wall_1" width="76" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1blRA0EQheHelSvh4ZAEt0MSSEAe3A5JiNNRHjhKgtshCc4AePJ6rKmp2qmluv6v6jnd4/TstGQGAAAAAAAAAPiv7odmh43ZkXKsnCinylmT1n0/d9bX58O+J+zW8sjsQXM9Kk/Ks/KivDZp3fdzZ319ZdT3hN061zyrrdmasq5sKJvKVpvWfT931tcvgt3Xm+aZaq5L5Uq5Vm6U2zat+37urK+/B7uvxfv60Fyfypfyrfwov21a9/3cWV/fWep7wm4t3tfuwGysTJQ9ZV85GKR138+d9fVo+7hd+ftH3MeaIu5jTexjGfaxTLT3VXsfeV9l+L0vwz6WibaPtf8fo+3jXeV5ZsHuCwAAAAAAAACAP0oZYHg=
+  </data>
+ </layer>
+ <layer id="3" name="item_1" width="76" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1skJQlEURMGLs0bxYnDWcJw1/wDsFIQH8qEKzrL3XQUAAAAAAAD9jVrVOE3SNM3SPC3SMq1a393QrVvVJm3TLu3TIR3TKZ1b393QXVrVNd3SPT3SM73SO31a3x0A/+FP/Maf+I0/AQAAAAAAwBB9AThEJEk=
+  </data>
+ </layer>
+ <layer id="4" name="item_2" width="76" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1skNwlAQRMGfiXNkh3DYIRx2Ew2dgA82lpBRlfSOc+jblAIAAAAAAP9jVJUyTpM0TbM0T4u0TKuq37uhW2fXJm3TLu3TIR3TKZ0bdne9G7pLdl3TLd3TIz3TK9Xp3bC76x0Av+GfaMc/0Y5/AgAAAAAAAIBvfADeWlMd
+  </data>
+ </layer>
+ <objectgroup id="6" name="pos">
+  <object id="9" name="spawn_player" x="590" y="540.667">
+   <point/>
+  </object>
+  <object id="10" name="exit_other_house_3" x="578.833" y="548.667" width="57.6667" height="10.6667"/>
+ </objectgroup>
+ <objectgroup id="5" name="wall">
+  <object id="5" name="wall" x="399.333" y="283.333" width="16" height="276.667"/>
+  <object id="6" name="wall" x="392" y="287.333" width="409.333" height="95.3333"/>
+  <object id="7" name="wall" x="783.333" y="287.333" width="19.3333" height="272"/>
+  <object id="8" name="wall" x="401.333" y="553.333" width="405.333" height="14"/>
+ </objectgroup>
+ <objectgroup id="8" name="item">
+  <object id="11" name="biblio_1" x="412.5" y="449.5" width="147" height="51.5"/>
+  <object id="12" name="biblio_2" x="641.5" y="455.25" width="143" height="48.5"/>
+  <object id="13" name="biblio_3" x="417.5" y="341.25" width="143" height="51.5"/>
+  <object id="14" name="biblio_4" x="641" y="343.75" width="143" height="49"/>
+ </objectgroup>
+</map>

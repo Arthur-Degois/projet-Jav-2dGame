@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="135" height="95" tilewidth="16" tileheight="16" infinite="0" nextlayerid="12" nextobjectid="15">
+ <tileset firstgid="1" source="interiorwalls.tsx"/>
+ <tileset firstgid="6145" source="decoration.tsx"/>
+ <layer id="1" name="ground_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt2VtOG0EQheHBUsIO7BDWB2wBkvUkbIHLRrhshrb8PA+Fyz3l6a+lkvxLjDTC7Tq/dJ4upum5zUub1zZPAY78LT4//rWZpqs2v9tcb2J8zLO4Pt+3eWjzp83fIB/zLK7Pb23e23y0+QzyMc/i+nxMJi2dh5hvYL6BazHfwHwD8w3MNzDfwHwDV2O+gfkG5huYb2C+gZfirLu29B3H+d9D1l1b+o7j/O8hy22Xdmp84My9keW2Szs1PnDm3qiYc/j7nLmPKuYc/j5n7iO+sS7mG5hvYL6BK/pGxfuKa/hGxfuKa/hGxfuKa+zvivcV19jfFe8rrrG/s+5rxjuNdEbyjYx3GumM5BsZ7zTSGck3Mt5ppMM3+Mbc4Rt8Y+7wjbhv/NtO0/82j9v1ft4fvhH3jR+7afrZ5nK33s/7wzfivnHT/ne3be526/28P3wj7hsVdn6PTOEbcd+osPN7ZArfiPtGhZ3fI1P4Rtw3Kuz8HpnCN+K+UWHn98gUvhH3jQo7v0em8I24b1TY+T0yhW/EfaPCzu+RKXwj7hsVdn6PTOEb+hR9ij4lmil8Q58ylyl8Q5+iT9GnRDOFb+hT5jKFb+hT9Cn6lGim8A19ylym8A19ij5FnxLNFL6hT5nLFL6hT9Gn6FOimcI39ClzmcI39Cn6FH1KNFP4Rowzfz94Xb6R+fvB6/KNTF/H6/KNTF/HfAPzDcw3KuXt6Mw3MN/AfAPzDcw3MN9YPl8x38B8A/MNzDcw36iSt6Mz38Cn9o1TZg0+b984Zdbg8/aNU2YNPm/fmNtNlfIT8w3MNzDfwHwD1+IvShRILg==
+  </data>
+ </layer>
+ <layer id="2" name="wall_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt1jtOHUEQBdBeADh7IDmzDd4BiTPz2wc/74DEGRjYAQn7ICEDDDsgccZ3HdRIk9ZIbVl6bvU50g26slfq13dKAQAAAAAAAAAAAAAAAAAAAADgf3a5UMrOrJTdMXuR/cjBxKyl85AfkauFeW+6PbPFUq5jdzdjbiO/I3cTs5bOQ+4jHxfnven2HMbOPi2V8nnMl8hKZHVi1tJ5yNfIT3ej2kPs7Ch2dzzmV+Qkcjoxa+k85Czyx92oNrwbj7G7pzHPkZfI68SspfOQt8i3D/PedHuGd+P7cinrYzYim5GtiVlL5yHbyzrlb6x18n/SKfUOO9mZTqn30Mnd0Cn1dAoZnUJGp5DRKWR0ChmdQkankNEpZHQKGZ1CRqeQ0SlkdAoZnUJGp5DRKWR0ChmdQkankNEpZHq5GzqlXi/fGzqlXi/fG96Net4NMr28G75F6513srOLTn4nAAAAAAAAAAAAAAAAAMC/8A5w2O0/
+  </data>
+ </layer>
+ <layer id="6" name="item_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt1EsuQ2EAhuEzxyo6rZVgJQjKLhBadoG4bsBlTrEBlznFAnxNKmmapklPI2lOnid585/JaQf/l1MUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAo17WiuEm36a5W7jfW8t562ujV6HserDHk7LaZtkr+P//jJffxmt7Se8m72ct7+6nZq9X3PFhryNntIB3aRuX0b2PY3Y86m7ZRaae507N0ni7GPP+eL9OVbVTO3zZ8N6plpl4Us2muXv43fDeqq55dzE+wjfvc6UNqp8de7THPp/RsG1NlIZtYTEsTbOMjd/qZOumrV2fM8zv92MZUWc4mVtLqBNugmraziZ20axsMOMomjtOJbQAAAAAAAAAAAAAAAAAAAAAAAFABv5++iow=
+  </data>
+ </layer>
+ <layer id="7" name="itemB_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt0rERgCAURMHfC/0XgdIIaCFeCWYQ7M68/IKrAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+6q3qSncabfcaTjLzh5We9PoGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAxPuIZB60=
+  </data>
+ </layer>
+ <layer id="3" name="stairs_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt1LkJA1EQRMENQKe3ykFnBps/OvPQmYHa//4yQlXw/IaB6ToAAAAAAAAAAAAAAAAAAAAA4JesV92wSdu0S/t0SP+2gdYkN5imWZqnRVqOfJcKG2jd+254pGd6pXf69OPepcIGWhX+eYUNtCr88wobaFX45xU20DrmBqd0Tpd0TbeR71JhAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANX0BTo1C0w==
+  </data>
+ </layer>
+ <layer id="4" name="windows_1" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt0LkJwDAQBEB14hL8NOKnET/9B74OJIGU2DOw2S0cmxIAAAAAAAAAAAAAAAAAAAAAAPAF45DSFJkjy9C21+qmx//krbHnFtkjR8W2Jb1WNz3+J++MPa/IHXkqti3ptbrp8T8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/8gJLQBoj
+  </data>
+ </layer>
+ <layer id="8" name="itemtop_2" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt0rkRwkAURMHvA1HIZAmCIxGORDgSARSoxpSHqaWqu+r5Y0wVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8t/1QdUjHdBqWXkNPzvnDJV3TzTeYuecPj/RML99g5p0/fNI3jb4BAAB0YNWq1mnTll5Cb7b5REs73wAAAAAAAAAAAAAAAAAAAAAAAAAAgJ8m+GwLCQ==
+  </data>
+ </layer>
+ <layer id="9" name="itemtopB_2" width="135" height="95">
+  <data encoding="base64" compression="zlib">
+   eJzt0sERglAQRMHNhUgQEkFNBDARkECZ488Apbqr3n0OUwUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPfRd1WPNKSxu3oNv2TKH57pld6+QWPOH5a0po9v0Njyhz190+EbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf+sEtmMJWQ==
+  </data>
+ </layer>
+ <objectgroup id="10" name="item">
+  <object id="7" name="placard" x="574" y="781" width="108" height="22"/>
+ </objectgroup>
+ <objectgroup id="5" name="wall">
+  <object id="1" name="wall" x="560" y="530" width="175" height="90"/>
+  <object id="2" name="wall" x="803" y="512" width="461" height="105"/>
+  <object id="3" name="wall" x="1332" y="510" width="174" height="106"/>
+  <object id="4" name="wall" x="548" y="531" width="28" height="561"/>
+  <object id="5" name="wall" x="559" y="1086" width="948" height="80"/>
+  <object id="6" name="wall" x="1487" y="544" width="29" height="543"/>
+  <object id="8" name="wall" x="564" y="893" width="54" height="65"/>
+  <object id="9" name="wall" x="860" y="785" width="281" height="123"/>
+ </objectgroup>
+ <objectgroup id="11" name="pos">
+  <object id="10" name="spawn_second_floor_1" x="753" y="607">
+   <point/>
+  </object>
+  <object id="11" name="spawn_second_floor_2" x="1280" y="610">
+   <point/>
+  </object>
+  <object id="12" name="exit_second_floor_1" x="724" y="501" width="87" height="31"/>
+  <object id="13" name="exit_second_floor_2" x="1259" y="495" width="75" height="36"/>
+  <object id="14" name="maire" x="1189" y="867">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
